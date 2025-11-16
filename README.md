@@ -29,6 +29,26 @@ Se cadastre em https://app.syki.com.br e teste o sistema em produção!
 17. [Desenvolvimento](#dev)
 18. [Contribuições](#contributions)
 
+> ℹ️ **Sobre este fork**
+
+> Este repositório é um fork pessoal da plataforma acadêmica original criada por **Zaqueu [Sobrenome]**.
+> O objetivo deste fork é corrigir bugs, expandir funcionalidades e usar o projeto como uma plataforma de aprendizado para C#, .NET e Blazor, mantendo a licença original AGPL-3.0.
+
+## Fork e manutenção
+
+- **Projeto original**: `<https://github.com/ZaqueuCavalcante/syki>`
+- **Autor original**: Zaqueu Cavalcante
+- **Mantenedor deste fork**: **Wilkson Colares**
+- **Licença**: GNU Affero General Public License v3 (AGPL-3.0), a mesma do projeto original.
+
+### Minhas contribuições nesta versão
+
+- **16/11/2025** – Adicionados os campos **Data de Nascimento** e **Telefone** ao fluxo de criação de aluno
+
+- Campos da interface do usuário adicionados à tela de matrícula/criação de aluno
+- Mapeamentos e validações do banco de dados atualizados
+- Mantida a compatibilidade com o modelo de domínio existente
+
 ## 1 - Funcionalidades <a name="features"></a>
 
 O **Syki** possui diversas funcionalidades, que podem ser categorizadas com base em cada perfil de usuário do sistema:
