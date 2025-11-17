@@ -1,0 +1,31 @@
+﻿# Git / editor
+.git
+.gitignore
+.vs
+.vscode
+.github
+
+# Build outputs
+**/bin
+**/obj
+
+# Frontend packages
+Web/node_modules
+Web/.svelte-kit
+**/node_modules
+
+# Conteudo que nao precisa no contexto padrao
+Docs/
+Posts/
+Tests/
+Web/tests
+Web/build
+
+# Logs e arquivos temporarios
+*.log
+
+# Markdown volumoso que nao e necessario
+README.md
+CHANGELOG.md
+Docs/**/*.md
+Tests/RUN.md
